@@ -1,0 +1,34 @@
+_repo: Studies-in-Modern-Music-Second-Series--13-Frederick-Chopin-Antonin-Dvo--k-Johannes-Brahms_39771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hadow, W. H. (William Henry)
+    alias: Hadow, William Henry, Sir
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '40222'
+    url: http://www.gutenberg.org/2009/agents/40222
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hadow
+description: v. [1. First series]:-5th ed.- Hector Berlioz, Robert Schumann, Richard
+  Wagner.--v. [2.] Second series:-4th ed.- Frederick Chopin, Antonin Dvořák, Johannes
+  Brahms.
+gutenberg_issued: '2012-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brahms, Johannes, 1833-1897'
+- !lcsh 'Chopin, Frédéric, 1810-1849'
+- !lcsh 'Musical form'
+- !lcc 'ML'
+- !lcsh 'Dvořák, Antonín, 1841-1904'
+title: "Studies in Modern Music, Second Series\r\nFrederick Chopin, Antonin Dvořák,\
+  \ Johannes Brahms"
+url: http://www.gutenberg.org/ebooks/39771
