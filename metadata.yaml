@@ -15,6 +15,8 @@ creator:
 description: v. [1. First series]:-5th ed.- Hector Berlioz, Robert Schumann, Richard
   Wagner.--v. [2.] Second series:-4th ed.- Frederick Chopin, Antonin Dvořák, Johannes
   Brahms.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39771#Studies-in-Modern-Music-Second-Series--13-Frederick-Chopin-Antonin-Dvo--k-Johannes-Brahms
 gutenberg_issued: '2012-05-23'
 gutenberg_type: Text
 identifiers:
